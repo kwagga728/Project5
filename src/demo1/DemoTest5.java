@@ -13,8 +13,8 @@ public static void main(String[] args) {
 		
 		System.out.println(result);
 
-		int x = y;
-		int = 20;
+		int x = 10;
+		int y = 20;
 
 		if(x > y) {
 			System.out.println("Greater");
