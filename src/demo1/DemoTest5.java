@@ -1,5 +1,7 @@
 package demo1;
 
+//comment
+
 public class DemoTest5 {
 	
 public static void main(String[] args) {
