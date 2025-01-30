@@ -12,6 +12,15 @@ public static void main(String[] args) {
 		int result = a + b;
 		
 		System.out.println(result);
+
+		int x = y;
+		int = 20;
+
+		if(x > y) {
+			System.out.println("Greater");
+		} else {
+			System.out.println("Less");
+		}
 		
 	}
 
